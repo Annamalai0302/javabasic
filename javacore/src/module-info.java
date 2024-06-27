@@ -7,4 +7,5 @@ public class sample {
 		System.out.println("MVIT");
 		System.out.print("TNSIF");
 	}
+	
 }
